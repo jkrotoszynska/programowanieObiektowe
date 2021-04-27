@@ -7,7 +7,7 @@ __W tym repozytorium znajdują się rozwiązania zadań w języku Java z przedmi
 
 Spis zawartości:
  [laboratorium 1] (https://github.com/jkrotoszynska/programowanieObiektowe/tree/master/lab01)
- [lab] (https://github.com/jkrotoszynska/programowanieObiektowe/tree/master/lab01)
+ [lab] (https://google.com)
   * zmienne
   * pętle
   * warunki
