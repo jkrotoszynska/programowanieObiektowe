@@ -6,17 +6,17 @@ Czas trwania: 23.02 - 01.06.2021
 __W tym repozytorium znajdują się rozwiązania zadań w języku Java z przedmiotu "Programowanie obiektowe".__
 
 Spis zawartości:
- * [laboratorium 1](https://github.com/jkrotoszynska/programowanieObiektowe/tree/master/lab01)
+* [laboratorium 1:](https://github.com/jkrotoszynska/programowanieObiektowe/tree/master/lab01)
   * zmienne
   * pętle
   * warunki
-* laboratorium 2:
+* [laboratorium 2:](https://github.com/jkrotoszynska/programowanieObiektowe/tree/master/lab02)
   * klasy
   * atrybuty
-* laboratorium 3:
+* [laboratorium 3:](https://github.com/jkrotoszynska/programowanieObiektowe/tree/master/lab03)
   * konstruktory
   * przeciążenia
-* laboratorium 4:
+* [laboratorium 4:](https://github.com/jkrotoszynska/programowanieObiektowe/tree/master/lab04)
   * dziedziczenie
   * zadania z diagramami
 * laboratorium 5:
