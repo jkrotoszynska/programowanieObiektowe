@@ -6,7 +6,7 @@ Czas trwania: 23.02 - 01.06.2021
 __W tym repozytorium znajdują się rozwiązania zadań w języku Java z przedmiotu "Programowanie obiektowe".__
 
 Spis zawartości:
-* [laboratorium 1] (https://www.google.com)
+ [laboratorium 1] (../tree/master/lab01)
   * zmienne
   * pętle
   * warunki
@@ -25,4 +25,4 @@ Spis zawartości:
   * nadpisywanie
   * system audio & wideo
 
-[I'm an inline-style link](https://www.google.com)
+
