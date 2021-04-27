@@ -1,12 +1,12 @@
 # Programowanie Obiektowe
+__Rozwiązania zadań w języku Java z przedmiotu "Programowanie obiektowe".__
 W tym repozytorium znajdują się zadania, którę wykonuje w celu zaliczenia kolokwium z przedmiotu "Programowanie Obiektowe".  
 Stworzone w celu nauki.
 ***
 Język: Java  
 Środowisko: IntelliJ IDEA  
 Czas trwania: 23.02 - 01.06.2021  
-
-__W tym repozytorium znajdują się rozwiązania zadań w języku Java z przedmiotu "Programowanie obiektowe".__
+***
 
 Spis zawartości:
 * [laboratorium 1:](https://github.com/jkrotoszynska/programowanieObiektowe/tree/master/lab01)
