@@ -1,3 +1,6 @@
 # Programowanie Obiektowe
 ### Język: Java
-__Repozytorium służy gromadzeniu rozwiązanych zadań w języku Java z przedmiotu "Programowanie obiektowe"__
+### Środowisko: IntelliJ IDEA
+
+__W tym repozytorium znajdują się rozwiązania zadań w języku Java z przedmiotu "Programowanie obiektowe"__
+
