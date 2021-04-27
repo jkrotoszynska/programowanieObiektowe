@@ -25,3 +25,4 @@ Spis zawartości:
   * nadpisywanie
   * system audio & wideo
 
+[I'm an inline-style link](https://www.google.com)
