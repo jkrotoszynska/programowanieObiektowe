@@ -1,6 +1,6 @@
 # Programowanie Obiektowe
-W tym repozytorium znajdują się zadania, którę wykonuje w celu zaliczenia kolokwium z przedmiotu "Programowanie Obiektowe".  
-__Stworzone w celu nauki.__
+__W tym repozytorium znajdują się zadania, którę wykonuje w celu zaliczenia kolokwium z przedmiotu "Programowanie Obiektowe".__  
+Stworzone w celu nauki.
 ***
 __Język:__ Java  
 __Środowisko:__ IntelliJ IDEA  
