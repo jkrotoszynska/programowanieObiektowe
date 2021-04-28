@@ -2,7 +2,7 @@
 __W tym repozytorium znajdują się zadania, którę wykonuje w celu zaliczenia kolokwium z przedmiotu "Programowanie Obiektowe".__  
 Stworzone w celu nauki.
 ***
-__ Język:__ Java  
+__Język:__ Java  
 __Środowisko:__ IntelliJ IDEA  
 __Czas trwania:__ 23.02 - 01.06.2021  
 ***
