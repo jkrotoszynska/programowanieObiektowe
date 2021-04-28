@@ -8,7 +8,7 @@ Język: Java
 Czas trwania: 23.02 - 01.06.2021  
 ***
 
-###Spis zawartości:
+##Spis zawartości:
 * [__laboratorium 1:__](https://github.com/jkrotoszynska/programowanieObiektowe/tree/master/lab01)
   * zmienne
   * pętle
