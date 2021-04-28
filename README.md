@@ -29,5 +29,5 @@ Spis zawartości:
   * system audio & wideo
 
 <p align="center">
-   <a href="" target="_blank"> <img src="https://hammersoftware.ca/wp-content/uploads/2021/02/Java-Logo-scaled.jpg" alt="java" width="650" height="400"/> </a>  
+   <a href="" target="_blank"> <img src="https://www.devtalks.ro/wp-content/uploads/2018/04/poza1-3.png" alt="java" width="650" height="400"/> </a>  
       </p>
