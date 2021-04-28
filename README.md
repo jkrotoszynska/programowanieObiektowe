@@ -29,5 +29,5 @@ Spis zawartości:
   * system audio & wideo
 
 <p align="center">
-   <a href="" target="_blank"> <img src="https://www.devtalks.ro/wp-content/uploads/2018/04/poza1-3.png" alt="java" width="942" height="345"/> </a>  
+   <a href="" target="_blank"> <img src="https://www.devtalks.ro/wp-content/uploads/2018/04/poza1-3.png" alt="java" width="940" height="340"/> </a>  
       </p>
