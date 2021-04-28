@@ -28,4 +28,6 @@ Spis zawartości:
   * nadpisywanie
   * system audio & wideo
 
-
+<p align="center">
+   <a href="" target="_blank"> <img src="https://static.antyweb.pl/wp-content/uploads/2016/01/java-logo.jpg" alt="java" width="650" height="400"/> </a>  
+      </p>
