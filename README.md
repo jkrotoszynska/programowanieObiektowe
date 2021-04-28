@@ -1,5 +1,4 @@
 # Programowanie Obiektowe
-__Rozwiązania zadań w języku Java z przedmiotu "Programowanie obiektowe".__  
 W tym repozytorium znajdują się zadania, którę wykonuje w celu zaliczenia kolokwium z przedmiotu "Programowanie Obiektowe".  
 __Stworzone w celu nauki.__
 ***
