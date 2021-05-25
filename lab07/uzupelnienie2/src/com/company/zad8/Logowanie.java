@@ -32,6 +32,7 @@ public class Logowanie extends JFrame implements ActionListener {
         setContentPane(p);
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         setSize(350, 150);
+        setResizable(false);
         setVisible(true);
     }
 
