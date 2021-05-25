@@ -64,12 +64,26 @@ public class RuchomySprite extends JFrame implements KeyListener, ActionListener
     }
 
     @Override
-    public void keyTyped(KeyEvent e) {
-
+    public void keyPressed(KeyEvent e) {
+        switch(e.getKeyCode()){
+            case KeyEvent.VK_LEFT:
+                p.x -= 10;
+                break;
+            case KeyEvent.VK_RIGHT:
+                p.x += 10;
+                break;
+            case KeyEvent.VK_UP:
+                p.y -= 10;
+                break;
+            case KeyEvent.VK_DOWN:
+                p.y += 10;
+                break;
+        }
+        repaint();
     }
 
     @Override
-    public void keyPressed(KeyEvent e) {
+    public void keyTyped(KeyEvent e) {
 
     }
 
