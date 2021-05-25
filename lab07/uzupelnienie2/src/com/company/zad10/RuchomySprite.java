@@ -17,9 +17,9 @@ public class RuchomySprite extends JFrame implements KeyListener, ActionListener
     public RuchomySprite(){
         super("Ruchomy Duszek");
 
-        p = new PanelGry()
+        p = new PanelGry(new Dimension(400,400), "src/resources/celownik.png");
 
-        JPanel btnPanel = new JPanel(new FlowLayout())
+        JPanel btnPanel = new JPanel(new FlowLayout());
 
         btnLewo = new JButton("Lewo ");
         btnLewo.addActionListener(this);
@@ -36,11 +36,31 @@ public class RuchomySprite extends JFrame implements KeyListener, ActionListener
         btnDol = new JButton("Dol");
         btnDol.addActionListener(this);
         btnPanel.add(btnDol);
+
+        Container cp = getContentPane();
+        cp.setLayout(new BorderLayout());
+        cp.add(p, BorderLayout.CENTER);
+        cp.add(btnPanel, BorderLayout.SOUTH);
+
+        addKeyListener(this);
+        pack();
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        setVisible(true);
+        requestFocus();
     }
 
     @Override
     public void actionPerformed(ActionEvent e) {
-
+        if(e.getSource() == btnLewo){
+            p.x -= 10;
+        }else if(e.getSource() == btnPrawo){
+            p.x += 10;
+        }else if(e.getSource() == btnGora){
+            p.y -= 10;
+        }else if(e.getSource() == btnDol){
+            p.y += 10;
+        }
+        repaint();
     }
 
     @Override
