@@ -99,11 +99,14 @@ public class Liczydlo extends JFrame implements ActionListener{
         }
         // reszta
         else if (zdarzenie.getActionCommand().equals("%")) {
-            double n = Double.parseDouble(liczbaA.getText()) % Double.parseDouble(liczbaB.getText());
-            if (Double.parseDouble(liczbaB.getText()) != 0){
+            try{
+                double n = Double.parseDouble(liczbaA.getText()) % Double.parseDouble(liczbaB.getText());
                 wynik.setText(Double.toString(n));
-            } else {
-                JOptionPane.showMessageDialog(this, "Nie dziel przez 0!", "Błąd", JOptionPane.ERROR_MESSAGE);
+                if (Double.parseDouble(liczbaB.getText()) == 0){
+                    JOptionPane.showMessageDialog(this, "Nie dziel przez 0!", "Uwaga", JOptionPane.WARNING_MESSAGE);
+                }
+            } catch (NumberFormatException ex){
+                JOptionPane.showMessageDialog(this, "Błąd!!!", "Błąd", JOptionPane.ERROR_MESSAGE);
             }
         }
 
