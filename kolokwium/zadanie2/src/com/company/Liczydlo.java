@@ -57,11 +57,11 @@ public class Liczydlo extends JFrame implements ActionListener{
         p1.add(dzielnik);
         p1.add(reszta);
         p1.add(czysc);
-        p1.add(new JLabel("Liczba A:"));
+        p1.add(new JLabel("Liczba A"));
         p1.add(liczbaA);
-        p1.add(new JLabel("Liczba B:"));
+        p1.add(new JLabel("Liczba B"));
         p1.add(liczbaB);
-        p1.add(new JLabel("Wynik:"));
+        p1.add(new JLabel("Wynik"));
         p1.add(wynik);
 
         // okno
