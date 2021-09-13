@@ -28,6 +28,7 @@ __Czas trwania:__ 23.02 - 01.06.2021
   * system audio & wideo
 * [__laboratorium 6:__](https://github.com/jkrotoszynska/programowanieObiektowe/tree/master/lab06)
 * [__laboratorium 7:__](https://github.com/jkrotoszynska/programowanieObiektowe/tree/master/lab07)
+  * aplikacja ruchomego celownika
 * [__KOLOKWIUM:__](https://github.com/jkrotoszynska/programowanieObiektowe/tree/master/kolokwium)
   * zadanie 1: klasy
   * zadanie 2: aplikacjia liczydła
