@@ -3,14 +3,14 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	Ksztalt kwadrat1 = new Kwadrat(5);
-	System.out.println("Kwadrat:");
-	System.out.println(kwadrat1.obliczObwod());
-	System.out.println(kwadrat1.obliczPowierzchnie());
-	Ksztalt kolo1 = new Kolo(5);
-	System.out.println("Kolo: ");
-	System.out.println(kolo1.obliczObwod());
-	System.out.println(kolo1.obliczPowierzchnie());
+        Ksztalt kwadrat1 = new Kwadrat(5);
+        System.out.println("Kwadrat:");
+        System.out.println(kwadrat1.obliczObwod());
+        System.out.println(kwadrat1.obliczPowierzchnie());
+        Ksztalt kolo1 = new Kolo(5);
+        System.out.println("Kolo: ");
+        System.out.println(kolo1.obliczObwod());
+        System.out.println(kolo1.obliczPowierzchnie());
 
     }
 }
