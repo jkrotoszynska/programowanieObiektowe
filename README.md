@@ -21,11 +21,19 @@ __Czas trwania:__ 23.02 - 01.06.2021
 * [__laboratorium 4:__](https://github.com/jkrotoszynska/programowanieObiektowe/tree/master/lab04)
   * dziedziczenie
   * zadania z diagramami
-* __laboratorium 5:__
+* [__laboratorium 5:__](https://github.com/jkrotoszynska/programowanieObiektowe/tree/master/lab05)
   * klasa abstrakcyjna
   * interface
   * nadpisywanie
   * system audio & wideo
+* [__laboratorium 6:__](https://github.com/jkrotoszynska/programowanieObiektowe/tree/master/lab06)
+  * praca z klasami
+* [__laboratorium 7:__](https://github.com/jkrotoszynska/programowanieObiektowe/tree/master/lab07)
+  * aplikacja ruchomego celownika
+* [__KOLOKWIUM:__](https://github.com/jkrotoszynska/programowanieObiektowe/tree/master/kolokwium)
+  * zadanie 1: klasy
+  * zadanie 2: aplikacjia liczydła
+  * zadanie 3: diagram UML
 
 <p align="center">
    <a href="" target="_blank"> <img src="https://www.devtalks.ro/wp-content/uploads/2018/04/poza1-3.png" alt="java" width="940" height="340"/> </a>  
